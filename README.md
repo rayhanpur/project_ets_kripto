@@ -3,18 +3,21 @@ Input: BC
 Key: E135 (1110000100110101)
 Cyphertext: 0111000010100011 (bit)
 Cyphertext: 0x70a3 (hex)
+Hasil Decrypt: 
 
 #Testcase 2
 Input: AB
 Key: AF0C (1010111100001100)
 Cyphertext: 0110011110000100 (bit)
 Cyphertext: 0x6784 (hex)
+Hasil Decrypt:
 
 #Testcase 3
 Input: DA
 Key: 5C33 (1110000100110101)
 Cyphertext: 0100001001000111 (bit)
 Cyphertext: 0x4247 (hex)
+Hasil Decrypt: 
 
 #Analisis Kelebihan dan Keterbatasan dari mini-AES
 Kelebihan:
